@@ -1,4 +1,4 @@
-# Python Samples — DevPath with msayedq
+# Python Samples — DevPath with MSayedQ
 
 A collection of small, focused Python examples and learning exercises. This repository is intended to be a portable reference for learners and contributors following the DevPath with msayedq.
 
